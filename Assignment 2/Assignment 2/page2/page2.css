@@ -1,0 +1,152 @@
+.background-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .email {
+    position: absolute;
+    top: 493px;
+    left: 571px;
+    font-weight: 300;
+  }
+  .registration-child {
+    position: absolute;
+    top: 694px;
+    left: 550px;
+    background-color: #d9d9d9;
+    width: 10px;
+    height: 10px;
+  }
+  .about-us,
+  .login {
+    position: absolute;
+    top: 120px;
+    left: 869px;
+    font-weight: 500;
+  }
+  .login {
+    left: 1067px;
+  }
+  .dollar {
+    margin: 0;
+  }
+  .dollar-snooker {
+    position: absolute;
+    top: 92px;
+    left: 162px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+  }
+  .services {
+    position: absolute;
+    top: 120px;
+    left: 673px;
+    font-weight: 500;
+  }
+  .registration-item {
+    position: absolute;
+    top: 149.5px;
+    left: 1066.5px;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 63px;
+    height: 1px;
+  }
+  .home,
+  .register-here {
+    position: absolute;
+    top: 120px;
+    left: 504px;
+    font-weight: 500;
+  }
+  .register-here {
+    top: 334px;
+    left: 571px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+  }
+  .rectangle-icon,
+  .registration-child1,
+  .registration-inner {
+    position: absolute;
+    top: 412px;
+    left: 512px;
+    border-radius: var(--br-21xl);
+    width: 376px;
+    height: 41px;
+  }
+  .rectangle-icon,
+  .registration-child1 {
+    top: 487px;
+  }
+  .registration-child1 {
+    top: 559px;
+  }
+  .password {
+    position: absolute;
+    top: 565px;
+    left: 571px;
+    font-weight: 300;
+  }
+  .registration-child2 {
+    position: absolute;
+    top: 637px;
+    left: 512px;
+    border-radius: var(--br-21xl);
+    width: 376px;
+    height: 41px;
+  }
+  .name,
+  .register {
+    position: absolute;
+    top: 423px;
+    left: 571px;
+    font-weight: 300;
+  }
+  .register {
+    top: 643px;
+    left: 653px;
+    color: #000;
+  }
+  .remember-me,
+  .terms-conditions {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .terms-conditions {
+    left: 184px;
+  }
+  .remember-me-parent {
+    position: absolute;
+    top: 692px;
+    left: 568px;
+    width: 320px;
+    height: 19px;
+    font-size: var(--font-size-mini);
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 306px;
+    left: 479px;
+    background-color: rgba(217, 217, 217, 0.2);
+    width: 492px;
+    height: 500px;
+  }
+  .registration {
+    background: url(background.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    height: 1024px;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-oxanium);
+  }
+  

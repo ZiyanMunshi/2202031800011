@@ -1,0 +1,94 @@
+.background-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .about-us,
+  .login {
+    position: absolute;
+    top: 113px;
+    left: 835px;
+    font-weight: 500;
+  }
+  .login {
+    left: 1033px;
+  }
+  .dollar {
+    margin: 0;
+  }
+  .dollar-snooker {
+    position: absolute;
+    top: 85px;
+    left: 128px;
+    font-size: 40px;
+    font-weight: 800;
+  }
+  .happy-customers,
+  .home,
+  .services {
+    position: absolute;
+    top: 113px;
+    left: 639px;
+    font-weight: 500;
+  }
+  .happy-customers,
+  .home {
+    left: 470px;
+  }
+  .happy-customers {
+    top: 185px;
+    left: 587px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+  }
+  .group-child {
+    position: absolute;
+    top: 330px;
+    left: 957px;
+    width: 276px;
+    height: 387px;
+    object-fit: cover;
+  }
+  .shanaan {
+    position: absolute;
+    top: 749px;
+    left: 1042px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+  }
+  .group-item {
+    position: absolute;
+    top: 330px;
+    left: 165px;
+    width: 276px;
+    height: 387px;
+    object-fit: cover;
+  }
+  .moin,
+  .one-of-the-container {
+    position: absolute;
+    top: 749px;
+    left: 261px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+  }
+  .one-of-the-container {
+    top: 351px;
+    left: 505px;
+  }
+  .background-1-parent {
+    background: url(background.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    height: 1024px;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-oxanium);
+  }
+  

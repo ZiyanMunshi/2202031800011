@@ -1,0 +1,83 @@
+.background-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.about-us1,
+.login {
+  position: absolute;
+  top: 113px;
+  left: 835px;
+  font-weight: 500;
+}
+.login {
+  left: 1033px;
+}
+.dollar {
+  margin: 0;
+}
+.dollar-snooker {
+  position: absolute;
+  top: 85px;
+  left: 128px;
+  font-size: 40px;
+  font-weight: 800;
+}
+.home,
+.services {
+  position: absolute;
+  top: 113px;
+  left: 639px;
+  font-weight: 500;
+}
+.home {
+  left: 470px;
+}
+.about-us-child {
+  position: absolute;
+  top: 139px;
+  left: 834.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 103px;
+  height: 1px;
+}
+.address-01-a {
+  position: absolute;
+  top: 709px;
+  left: 216px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+}
+.owned-by-mushtakim {
+  position: absolute;
+  top: 595px;
+  left: 487px;
+  font-size: 32px;
+}
+.dollar-snooker-is-container,
+.we-belive-in-container {
+  position: absolute;
+  top: 354px;
+  left: 216px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+}
+.we-belive-in-container {
+  top: 450px;
+}
+.about-us {
+      background: url(background.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-oxanium);
+}

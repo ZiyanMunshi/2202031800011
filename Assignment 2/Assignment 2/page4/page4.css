@@ -1,0 +1,144 @@
+.background-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .about-us,
+  .login {
+    position: absolute;
+    top: 113px;
+    left: 835px;
+    font-weight: 500;
+  }
+  .login {
+    left: 1033px;
+  }
+  .dollar {
+    margin: 0;
+  }
+  .dollar-snooker {
+    position: absolute;
+    top: 85px;
+    left: 128px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+  }
+  .services {
+    position: absolute;
+    top: 113px;
+    left: 639px;
+    font-weight: 500;
+  }
+  .group-child {
+    position: absolute;
+    top: 142.5px;
+    left: 638.5px;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 95px;
+    height: 1px;
+  }
+  .home {
+    position: absolute;
+    top: 113px;
+    left: 470px;
+    font-weight: 500;
+  }
+  .background-1-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    font-size: var(--font-size-5xl);
+  }
+  .buy-top-class-cues {
+    position: absolute;
+    top: 528px;
+    left: 187px;
+    font-family: var(--font-paytone-one);
+  }
+  .address {
+    position: absolute;
+    top: 884px;
+    left: 1149px;
+    font-weight: 800;
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .line-child {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 20px;
+    height: 20px;
+  }
+  .book-a-personal,
+  .line {
+    position: absolute;
+    top: 0;
+    left: 46px;
+  }
+  .line {
+    top: 298px;
+    left: 128px;
+    width: 948px;
+    height: 56px;
+    font-family: var(--font-paytone-one);
+  }
+  .buy-snooker-accessories {
+    position: absolute;
+    top: 230px;
+    left: 67px;
+  }
+  .buy-snooker-or,
+  .line1 {
+    position: absolute;
+    top: 0;
+    left: 59px;
+  }
+  .line1 {
+    top: 413px;
+    left: 128px;
+    width: 595px;
+    height: 286px;
+    font-family: var(--font-paytone-one);
+  }
+  .servicepage-child,
+  .servicepage-item {
+    position: absolute;
+    top: 553px;
+    left: 128px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 20px;
+    height: 20px;
+  }
+  .servicepage-item {
+    top: 688px;
+  }
+  .dollar-snooker-club {
+    position: absolute;
+    top: 181px;
+    left: -846px;
+    font-weight: 800;
+  }
+  .servicepage {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    background: url(background.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-white);
+    font-family: var(--font-oxanium);
+  }
+  

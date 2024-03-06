@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-oxanium: Oxanium;
+  
+    /* font sizes */
+    --font-size-mini: 15px;
+    --font-size-13xl: 32px;
+    --font-size-lgi: 19px;
+    --font-size-5xl: 24px;
+    --font-size-21xl: 40px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro-100: #d9d9d9;
+  
+    /* Gaps */
+    --gap-xl: 20px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-8xs: 5px;
+    --padding-11xs: 2px;
+    --padding-3xs: 10px;
+    --padding-3xl: 22px;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+  }
+  
